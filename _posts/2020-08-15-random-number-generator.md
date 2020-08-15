@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Random Number Generator"
 date: 2020-08-15
 ---
 
