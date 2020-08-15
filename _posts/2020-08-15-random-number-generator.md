@@ -3,7 +3,7 @@ title: "Random Number Generator"
 date: 2020-08-15
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script>
 
 Test. $$\sqrt{a} \times \sqrt{a} = a$$.
 
