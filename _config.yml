@@ -6,4 +6,4 @@ email: jzhou0604@gmail.com
 github_username:  jzihnogu # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme: dinky
+theme: jekyll-theme-dinky
