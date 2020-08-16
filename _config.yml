@@ -7,4 +7,3 @@ github_username:  jzihnogu # DO NOT include the @ character, or else the build w
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
-mathjax: true
