@@ -3,7 +3,8 @@ layout: post
 mathjax: true
 comments: true
 title: "Random Number Generator"
-date: 2020-08-15
+date: 2020-08-16
+categories: github jekyll
 ---
 
 Test.
